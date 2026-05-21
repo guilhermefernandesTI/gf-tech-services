@@ -1,57 +1,49 @@
-🔵 CHECKPOINT 03 – ATUALIZAÇÃO DO CRONOGRAMA E PROGRESSO
-🖥️ Projeto: Serviços de Tecnologia GF
-📅 Atualização do Cronograma
+Projeto: Serviços de Tecnologia GF
+Atualização do Cronograma de Desenvolvimento
 
-Nesta etapa, o cronograma do projeto foi atualizado, separando as atividades de front-end e back-end, além de identificar o progresso das implementações realizadas até o momento.
+Nesta etapa, o cronograma foi revisado e separado entre front-end e back-end, além de registrar o progresso do sistema.
 
-⚙️ Separação das Etapas do Projeto
-💻 Front-end
+Front-end
 
 Responsável pela interface do sistema.
 
-Atividades previstas:
-
-Criação da página inicial do sistema
-Desenvolvimento de formulários de cadastro (clientes e serviços)
-Criação de tabelas para listagem de dados
-Botões de editar e excluir registros
-Integração com a API do back-end
-
+Atividades:
+Interface principal do sistema
+Formulário de cadastro de serviços
+Lista de atendimentos
+Busca de registros
+Integração com API
 Status:
-❌ Não iniciado / Em desenvolvimento (ajuste conforme seu progresso)
 
-🧠 Back-end
+✔ Concluído / Em ajustes finais
 
-Responsável pela lógica e comunicação com o banco de dados.
+Back-end
 
-Atividades previstas:
+Responsável pela lógica e persistência dos dados.
 
-Criação do servidor com Express.js
-Configuração do banco de dados MySQL
-Criação das tabelas (clientes e serviços)
-Implementação do CRUD completo:
-Criar
-Ler
-Atualizar
-Excluir
-
+Atividades:
+Servidor Node.js com Express
+API REST completa
+CRUD de serviços
+Validação de dados
+Persistência em JSON (services.json)
+Arquitetura Repository Pattern
 Status:
-❌ Não iniciado / Em desenvolvimento (ajuste conforme seu progresso)
 
-📌 O que já foi implementado
-Definição da ideia do sistema
-Estruturação do projeto
-Criação do repositório no GitHub
-Planejamento das tecnologias e funcionalidades
-Criação do cronograma inicial
-🚀 Situação Atual do Projeto
+✔ Concluído
 
-O projeto encontra-se na fase de planejamento e início de desenvolvimento, com estrutura definida para implementação do front-end e back-end.
+O que já foi implementado
+Estrutura inicial do projeto
+API REST funcional
+CRUD completo de serviços
+Validação de dados
+Persistência em JSON
+Interface web funcional
+Integração front-end e back-end
+Situação atual do projeto
 
-👨‍💻 Desenvolvedor
+O sistema encontra-se totalmente funcional, com front-end e back-end integrados, permitindo o gerenciamento completo de serviços técnicos.
+
+Desenvolvedor
 
 Projeto desenvolvido por Guilherme Vitor para a disciplina de Tecnologias Emergentes.
-
-💡 Observação importante
-
-Este checkpoint será atualizado conforme o desenvolvimento do sistema avance, incluindo novas funcionalidades implementadas no front-end e back-end.
